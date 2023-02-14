@@ -1,8 +1,8 @@
 # proyecto
 API REST sistema web
 Backend
--API REST laravel
+: API REST laravel
 Frontend
--Angular 
--Bootstrap
--Bootstrap Icon
+: Angular 
+Librerias: Bootstrap
+
